@@ -1,0 +1,35 @@
+ul {
+    background-color:darkturquoise ;
+    
+
+}
+
+li{
+    background-color:deeppink;
+    
+
+}
+
+img {
+    width:900;
+    height:900;
+}
+
+.top{
+    font-size: :xx-large;
+}
+
+.dropdown-menu li a, .dropdown-toggle {
+    color:white;
+
+}
+
+td{
+    font-size: x-large;
+    color:darkturquoise ;
+}
+
+table{
+    background-color:deeppink;
+}
+
