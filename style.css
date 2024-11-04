@@ -33,3 +33,27 @@ table{
     background-color:deeppink;
 }
 
+body {
+    background-color: deeppink;
+    background-image: url("https://i.pinimg.com/originals/a9/b8/6c/a9b86c948fd8dc5cf2f46fa313d24083.jpg");
+}
+
+.front{
+    color:black;
+}
+
+p {
+    font-size: x-large;
+    font-weight: 700;
+    color: black;
+}
+
+.pink a{
+    color:deeppink;
+}
+
+.blue a{
+    color:black;
+}
+
+
